@@ -6,7 +6,7 @@ Based on the tutorials I found online, I have made this game which is basically 
 
 I have also uploaded a downloadable playable version to itch.io.
 
-Unity Version: 2018.3.0f2
+Unity Version: 2018.3.8f1
 
 Youtube Demo Link : https://www.youtube.com/watch?v=cGZ9-84oh4M
 
